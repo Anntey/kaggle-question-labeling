@@ -1,11 +1,14 @@
-# Kaggle: Google Q&A Question Labeling
+# Kaggle: Google QUEST Q&A Labeling ([link](https://www.kaggle.com/c/google-quest-challenge))
 
-_Data_:
+__Data__: 3 583 question-answer pairs (title, body, answer)
 
-_Task_:
+__Task__: predict target values of 30 labels for each question-answer pair
 
-_Evaluation_:
+__Evaluation__: mean column-wise Spearman's Correlation Coefficient
 
-_Solution_:
+__Solution__: BERT[<sup>[1]</sup>]() 
 
-_Success_:
+__Success__: 
+
+![](learning_task.png)
+
