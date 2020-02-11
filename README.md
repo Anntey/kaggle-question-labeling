@@ -8,7 +8,7 @@ __Evaluation__: mean column-wise Spearman's Correlation Coefficient
 
 __Solution__: multi-input BERT[<sup>[1]</sup>](https://arxiv.org/abs/1810.04805) fine-tuned with dense output layer
 
-__Success__: 0.389 mean column-wise Correlation
+__Success__: 0.358 mean column-wise Correlation
 
 ![](learning_task.png)
 
